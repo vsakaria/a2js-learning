@@ -19,5 +19,4 @@ export class TestComponent {
 	onLog(message: string) {
 		this._loggingService.log(message);
 	}
-
 }
